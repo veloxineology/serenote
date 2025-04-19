@@ -6,7 +6,7 @@ export interface AlbumColor {
 
 export const albumColors: Record<string, AlbumColor> = {
 	bratdeluxe: { name: 'Brat deluxe', background: '#ffffff', foreground: '#000000' },
-	brat: { name: 'BRAT', background: '#8ace00', foreground: '#000000' },
+	brat: { name: 'BRAT', background: '#d3d3d3', foreground: '#000000' }, // changed here
 	crash: { name: 'CRASH', background: '#019bd9', foreground: '#f70000' },
 	howimfeelingnow: { name: "how i'm feeling now", background: '#ffffff', foreground: '#c1c1c1' },
 	charli: { name: 'Charli', background: '#918a84', foreground: '#000000' },
