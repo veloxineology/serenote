@@ -38,7 +38,7 @@
 
 <section>
 	<header>
-		<h1>bratify</h1>
+		<h1>serenote by kaushik :)</h1>
 	</header>
 
 	<Generator />
