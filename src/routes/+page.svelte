@@ -9,8 +9,7 @@
 	<title>Serenote by kaushik :)</title>
 	<meta
 		name="description"
-		content="BRAT album cover style art generator.
-	Write your text and export it as if it was a BRAT album art piece."
+		content="Write your text and export it as if it was a BRAT album art piece."
 	/>
 
 	<!-- Open Graph / Facebook -->
@@ -18,8 +17,7 @@
 	<meta property="og:title" content="bratify" />
 	<meta
 		property="og:description"
-		content="BRAT album cover style art
-	generator. Write your text and export it as if it was a BRAT album art
+		content="Write your text and export it as if it was a BRAT album art
 	piece."
 	/>
 	<meta property="og:image" content={`https://${data.url ?? ''}/bratify.jpeg`} />
@@ -29,8 +27,7 @@
 	<meta property="twitter:title" content="bratify" />
 	<meta
 		property="twitter:description"
-		content="BRAT album cover style art
-	generator. Write your text and export it as if it was a BRAT album art
+		content="Write your text and export it as if it was a BRAT album art
 	piece."
 	/>
 	<meta property="twitter:image" content={`https://${data.url ?? ''}/bratify.jpeg`} />
@@ -44,8 +41,8 @@
 	<Generator />
 
 	<footer>
-		Made by <a href="https://github.com/veloxineology">Kaushik</a> xx.
-		<a href="https://github.com/retronav/bratify">Source code</a>. Your story, your palette—choose “Custom Color” to stay on theme.
+		Made by <a href="https://www.instagram.com/kaushikieee/">Kaushik</a> xx.
+		<a href="https://github.com/veloxineology/serenote">Source code</a>. Your story, your palette—choose “Custom Color” to stay on theme.
 	</footer>
 </section>
 
