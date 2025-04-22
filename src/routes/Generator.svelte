@@ -105,7 +105,7 @@
 
 <section class="settings">
 	<div>
-		<label for="center">Center text but might not work well with long text</label>
+		<label for="center">Center Align</label>
 		<input type="checkbox" id="center" bind:checked={centeredText} />
 		<label for="mirror">Mirror text</label>
 		<input type="checkbox" id="mirror" bind:checked={mirroredText} />
